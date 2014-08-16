@@ -1,5 +1,5 @@
 # Dropzone Action Info
-# Name: OmniFocus
+# Name: OmniFocus2
 # Description: Creates a task in OmniFocus with the selected text or file
 # Handles: Files, Text
 # Creator: Matt Bond
